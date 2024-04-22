@@ -1,0 +1,6 @@
+{
+    "headimage":"头像的地址路径",
+    "signature":"个性签名",
+    "birthday":"生日",
+    "gender": "性别"
+}
